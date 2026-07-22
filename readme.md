@@ -16,7 +16,7 @@ The goal of this project is to testing site (https://commitquality.com/) and dev
 The automated tests cover the following areas:
 - User login
 - Product search
--Checkout flow
+- Checkout flow
 - Basic functionalities
 #Instalation
 Clone the repository:
