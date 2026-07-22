@@ -45,6 +45,7 @@ The following tools are used in the project:
 - TypeScript
 - Node.js
 - npm
+- Codex 
 - Git
 - GitHub
 - GitHub Actions
