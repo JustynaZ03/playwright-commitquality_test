@@ -18,7 +18,7 @@ The automated tests cover the following areas:
 - Product search
 - Checkout flow
 - Basic functionalities
-#Instalation
+## Instalation
 Clone the repository:
 git clone https://github.com/JustynaZ03/playwright-commitquality_test.git
 cd playwright-commitquality_test
